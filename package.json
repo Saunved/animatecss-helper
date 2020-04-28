@@ -1,0 +1,16 @@
+{
+  "name": "animatecss-helper",
+  "version": "1.0.2",
+  "description": "Helper function to add multiple animate.css classes to elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "animatecss",
+    "helper",
+    "js"
+  ],
+  "author": "saunved",
+  "license": "ISC"
+}
