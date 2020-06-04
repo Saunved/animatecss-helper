@@ -1,5 +1,5 @@
-Helper function to add multiple animate.css classes to an element with Javascript.
-Supports animate.css v3.x and v4.x
+Helper function to add multiple animate.css classes to an element with Javascript.  
+**Supports animate.css 3.x and 4.x**
 
 ## Installation
 
@@ -24,7 +24,7 @@ animateCSS(selector, classes, () => {
 })
 ```
 
-**For example**
+### Examples 
 For v3
 ```js
 animateCSS('#id', 'fadeOut slow', () => {
@@ -32,7 +32,7 @@ animateCSS('#id', 'fadeOut slow', () => {
 })
 ```
 
-For v4
+For v4  
 ```js
 animateCSS('#id', 'animate__fadeOut animate__slow', () => {
     // callback after animation ends
@@ -40,5 +40,5 @@ animateCSS('#id', 'animate__fadeOut animate__slow', () => {
 ```
 
 ### Build
-Gulp is used to build the output
+Gulp is used to build the output  
 ```npm run build```

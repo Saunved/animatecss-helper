@@ -1,6 +1,6 @@
 {
   "name": "animatecss-helper",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Helper function to add multiple animate.css classes to elements",
   "main": "dist/animatecss-helper.min.js",
   "scripts": {
